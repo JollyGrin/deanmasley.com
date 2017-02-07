@@ -1,0 +1,58 @@
+==================================================================
+https://keybase.io/dmasley
+--------------------------------------------------------------------
+I hereby claim:
+  * I am an admin of http://deanmasley.com
+  * I am dmasley (https://keybase.io/dmasley) on keybase.
+  * I have a public key with fingerprint F0A9 C96E FDC4 E172 3A2F  9D8A 9987 8574 5CA3 5D83
+To do so, I am signing this object:
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010176de8af781d45526e250c9771ef4831716bd3e374d4f51512a28dca870c3ebf70a",
+            "fingerprint": "f0a9c96efdc4e1723a2f9d8a998785745ca35d83",
+            "host": "keybase.io",
+            "key_id": "998785745ca35d83",
+            "kid": "010176de8af781d45526e250c9771ef4831716bd3e374d4f51512a28dca870c3ebf70a",
+            "uid": "a24aa3a1a27446586782b761f8c30e19",
+            "username": "dmasley"
+        },
+        "service": {
+            "hostname": "deanmasley.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1455831244,
+    "expire_in": 157680000,
+    "prev": "08bdc849e4f4b6cdb407c9c95abc9dffb5fbbdd9292f867305007896eac6ea9f",
+    "seqno": 13,
+    "tag": "signature"
+}
+which yields the signature:
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.51
+Comment: https://keybase.io/crypto
+yMImAnicrVJbSFRBGF7TlDTRLIK0KM5DPbTquc+cxYeSwm4EkfnQWoc5Z+asJ3f3
+rGePa2JSEUFhVNtDqdAFL6Xmg5km0YNlV+iCEFkGUVSKFFi+aEZZcyzfemxgGOaf
+7/vm//7/v5ee6ElNGB/+5fdknD6W8PhOfaWn5AF8UsNoFq5mfDVMOZk9SBCTqKOW
+m5jxMSzHckDGBCIDQA6LksTLhJdYXQGAI4YIBQ5wsoYFIgARi4bESRyPeIh1BAGr
+C0QzAIsYL2OY4QCxI7YZdqiswSJFV2RiYF0kHOAFxBsKhkhRIIASECUdCRKGAiWW
+WVGXQZPTUJTkmRaN0Ys6m94/8P8578pZOcSLCAmIQzwQRVmCMoC8BmTOgLrAEk5x
+gVFih1GIUDQOoWiQFrPWy9BgzNSJW1fXyByAoPAfTJ5uhSg5YluOpVtB+lbmOBGf
+S3WqIy62imjqXxVVM8OY1pESYsSOmlaY8XEUqTumK8tRl9QXL4pehuyPmDZRTRch
+ARmydLnfkJhbHKhhHYoKEQ1Rk3WsiSzQaT8kpOkKNgxNMjQNY4VXeINaFViJZQGk
+7UI63YrBuL4qwhbVFmieKEA1o2YgjJxKmzC1A7dLkzwJqZ7k+fPcAfOkLsicG7t4
+W8pMflrFp+b0g5smhdK6AlDcWL1wcW5h+edDReDh+b7ksbNFvVLiCNMebz1x+X5O
+qPNZ9uijhtVvcm7tWFG05m7Fl90X2hqqfsbVructPSCy/rhqn/oAjowOP639Nu6v
+uZTZ2f9KOyplPxnLe3Gye+RQ4qWlqh8tCn7f+Dr/3vZgT1aOv27JSP66mYqpwsab
+ffX+BmH6R1OxEz+TMiUExiLP125PT0CT3V3H93Z8xBMH3l9t7l0y+PJd7kRs5u2Q
+uGz6sFXgbW3ZtSFpoqM9/dRQ6QYY4K6kbb0xWLelCxYsRyu1c+Ri0kCWZ9/p+gx1
+1cKsPX2FJde2xS1P/9ed1+3NTb8B1YpBGw==
+=3FZR
+-----END PGP MESSAGE-----
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+View my publicly-auditable identity here: https://keybase.io/dmasley
+==================================================================
